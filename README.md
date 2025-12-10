@@ -1,153 +1,128 @@
 
 <img width="1315" height="727" alt="Screenshot 2025-12-10 092456" src="https://github.com/user-attachments/assets/c91c1923-471b-4ee9-90af-ea09ea2d2142" />
+# 🍽️ Food & Beverage Industry Intelligence Dashboard
+_A modern data-driven analytics dashboard built using **Power BI** to uncover insights across production, pricing, revenue & profits._
 
-🍽️ Food & Beverage Industry Intelligence Dashboard
+---
 
-An interactive Power BI Dashboard built to analyze and monitor the performance of the Food & Beverage industry.
-The report provides deep insights into production, revenue, profit, pricing trends, and commodity-wise performance across multiple years and quarters.
+## ✨ Project Overview
+This project presents an end-to-end analytical dashboard for the **Food & Beverage Industry**, offering clear insights into yearly trends, profit distribution, commodity performance, and pricing variations. The dashboard uses interactive filters and dynamic visuals to support **quick decision-making**, revealing hidden patterns across multiple years and quarters.
 
-📊 Dashboard Overview
+---
 
-(Insert your dashboard image here)
-![Dashboard Preview](dashboard.png)
+## 🎛️ Interactive Filters Included
+- **🛍 Commodity:** Coffee, Wheat, Oats, Corn, Cocoa, Sugar, Rice, Soybeans, and more  
+- **📅 Year:** 2018 — 2023  
+- **🕒 Quarter:** Q1 – Q4  
 
-This dashboard allows users to explore food & beverage performance data using dynamic visualizations and interactive slicers.
+These filters dynamically update all visuals and KPIs, offering a smooth exploration experience.
 
-🎛️ Interactive Filters
+---
 
-The dashboard includes multiple filters to customize insights:
+## 📈 Key Performance Indicators (KPIs)
+The dashboard highlights essential business metrics:
 
-Commodity Filter
+- 💰 **Total Profit**  
+- 📈 **Max Profit**  
+- 📉 **Min Profit**  
+- 📦 **Total Production**  
+- 🏷 **Price per Ton / Unit**  
+- 💹 **Average Price**
 
-Coffee, Wheat, Sugar, Rice, Corn, Oats, Soybeans, etc.
+These KPIs help identify best-performing commodities and assist in strategic decision-making.
 
-Year Filter
+---
 
-2018, 2019, 2020, 2021, 2022, 2023
+## 📊 What's Inside the Dashboard?
 
-Quarter Filter
+### **1️⃣ Yearly Revenue & Profit Trend**
+A dual-axis chart showing:
+- **Total Revenue (Bars)**
+- **Total Profit (Line)**  
+This gives a clear picture of financial performance across the years.
 
-Q1, Q2, Q3, Q4
+---
 
-These filters update all visuals across the report instantly.
+### **2️⃣ Commodity-Level Insights**
+In-depth analysis for each commodity:
+- Production levels  
+- Revenue generation  
+- Profit patterns  
+- Price variations across years and quarters  
 
-🔢 Key Performance Indicators (KPIs)
+---
 
-The dashboard highlights:
+### **3️⃣ KPI Summary Cards**
+Beautifully presented KPI cards that offer:
+- High-level business overview  
+- Instant profit behavior analysis  
+- Comparative performance insights  
 
-📈 Max Profit
+---
 
-📉 Min Profit
+## 🧩 Dataset Details
+The dataset contains:
 
-📦 Total Production
+- Commodity  
+- Year & Quarter  
+- Production Volume  
+- Revenue  
+- Profit  
+- Price per Ton  
+- Average Selling Price  
 
-💰 Total Profit
+This structured data powers insightful storytelling through data modeling and DAX calculations.
 
-🏷 Price per Unit / Ton
+---
 
-📊 Average Price
+## 🛠️ Tech Stack Used
 
-These KPIs help identify the best and worst-performing commodities and years.
+| Tool | Purpose |
+|------|---------|
+| **Power BI Desktop** | Dashboard building & modeling |
+| **Power Query** | Data cleaning and transformation |
+| **DAX** | Calculated KPIs and measures |
+| **Excel/CSV** | Source dataset |
 
-📈 Visuals Included
-1️⃣ Revenue & Profit Trend Analysis
+---
 
-Bar chart → Total Revenue by Year
+## 🎯 Project Objectives
+- Identify **most and least profitable** commodities  
+- Compare **year-wise and quarter-wise** performance  
+- Monitor **production and revenue** fluctuations  
+- Understand **price–profit correlations**  
+- Support decision-making using **data-backed insights**  
 
-Line chart → Total Profit by Year
+---
 
-2️⃣ Commodity Performance Panel
+## 🚀 How to Use the Dashboard
+1. Download the `.pbix` file  
+2. Open it in **Power BI Desktop**  
+3. Use the filters for Commodity, Year, or Quarter  
+4. Hover on charts for additional insights  
+5. Explore trends, compare performance & extract insights  
 
-View how each commodity performed over time in:
+---
 
-Production
+## 📌 Key Insights (Examples)
+✔ Profit levels vary greatly across different commodities  
+✔ Price per ton strongly influences revenue and profit  
+✔ Q3 and Q4 generally show stronger profitability  
+✔ Certain commodities maintain consistent production, while others fluctuate  
+✔ High production does not always mean high profit—pricing dynamics matter  
 
-Revenue
+---
 
-Profit
+## 🤝 Contributions
+Contributions and improvements are welcome!  
+Feel free to **open an issue** or **submit a pull request**.
 
-Pricing
+---
 
-3️⃣ Yearly & Quarterly Trend Comparison
+## 📬 Contact
+**👤 Lokesh Rathod**  
+🔗 GitHub: [LokeshRathod125](https://github.com/LokeshRathod125)  
+📧 Email: _Add your email here_
 
-Helps identify seasonal performance and yearly growth patterns.
+---
 
-📁 Dataset Information
-
-The dataset includes:
-
-Commodity Name
-
-Year
-
-Quarter
-
-Production Quantity
-
-Consumption Revenue
-
-Profit
-
-Price per Ton / Unit
-
-Average Selling Price
-
-🛠️ Tools & Technologies Used
-
-Power BI Desktop
-
-Power Query — for data cleaning & transformation
-
-DAX Measures — for KPI calculations
-
-Data Modeling
-
-Excel / CSV Dataset
-
-🎯 Project Objectives
-
-Analyze profitability for each commodity
-
-Compare production and revenue across years
-
-Understand price fluctuations and their impact
-
-Track business performance through KPIs
-
-Identify high-performing and low-performing commodities
-
-Support decision-making with interactive filters
-
-🚀 How to Use This Dashboard
-
-Download the .pbix file from the repository
-
-Open it in Power BI Desktop
-
-Use the Commodity, Year, and Quarter filters
-
-Hover over visuals to explore detailed values
-
-Compare trends and extract insights
-
-📌 Key Insights (Examples)
-
-Profit fluctuates significantly across different commodities
-
-Some years show sharp revenue growth due to high production
-
-Average price per ton varies widely between commodities
-
-Q3 and Q4 generally exhibit higher profit margins
-
-🤝 Contributing
-
-Contributions and improvements are welcome!
-Feel free to submit issues or pull requests.
-
-📬 Contact
-
-Lokesh Rathod
-🔗 GitHub: LokeshRathod125
-
-📧 Email: (add your email here)
