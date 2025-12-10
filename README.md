@@ -1,5 +1,5 @@
 
-<img width="1310" height="734" alt="image" src="https://github.com/user-attachments/assets/08baf917-0d44-4735-bd4a-cc41f7c53054" />
+<img width="1315" height="727" alt="Screenshot 2025-12-10 092456" src="https://github.com/user-attachments/assets/c91c1923-471b-4ee9-90af-ea09ea2d2142" />
 
 🍽️ Food & Beverage Industry Intelligence Dashboard
 
